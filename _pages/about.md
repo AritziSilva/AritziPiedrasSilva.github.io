@@ -5,6 +5,4 @@ header:
   image: "/images/img-2430.jpg"
 ---
 
-I'm a senior data scientist who excels at data wrangling, machine learning, exploratory analysis, and data visualizations.
-
-Etc, etc, etc
+This portfolio will contain completed projects from Bellevue University's Data Science courses 2020-2021
